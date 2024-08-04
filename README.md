@@ -45,6 +45,9 @@ This project has been built using Jupyter notebooks and Python.
 ### Binder
 It can be accessed interactively online using this binder tag.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/georgiatrent/Immigration-spain-dh140/main?labpath=Notebook.ipynb)
+
+
 ### Quarto
 It can also be read as a blog post using this repository and Quarto. 
 
