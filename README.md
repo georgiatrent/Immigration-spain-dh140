@@ -49,7 +49,10 @@ It can be accessed interactively online using this binder tag.
 
 
 ### Quarto
-It can also be read as a blog post using this repository and Quarto. 
+It can also be read as a blog post using this repository and Quarto. Click the following link to visit the blog page. 
+
+https://georgiatrent.github.io/Immigration-spain-dh140/
+
 
 ## Contact 
 Georgia Trentalange - georgia@trentalange.net
