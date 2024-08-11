@@ -11,27 +11,20 @@
     "href": "posts/Blog.html",
     "title": "Immigration into Spain: A Case Study",
     "section": "",
-    "text": "Immigration into Spain: A Case Study\nThis is the blog post for this project. Full file can be found in the main directory titled “Notebook.ipynb”"
+    "text": "Migracode is a non-profit project that provides coding classes for migrants reaching certain criteria. This analysis investigates how Migracode Students compare to the broader population of immigrants in Barcelona and more broadly in Spain. This exploration seeks to determine whether Migracode Students reflect the general population of eligible applicants or if there are disparities among different groups.\nThere are four criteria to apply to Migracode classes:\n(1) EITHER / Be a refugee or asylum seeker / Be a migrant from outside the EU who cannot find work / OR / Be a migrant from outside the EU in a difficult/vulnerable living situation\n(2) Be fluent in English or Spanish\n(3) Have documentation to live/work in Spain\n(4) Live in/around Barcelona\nI refer to people who meet this eligibility requirements as 4 Criteria People, a demographic that is not described fully by any public dataset.\n\n\n\nMigracode Students Database\nContains records of individuals who have applied to Migracode classes from 2021 to 2024. Data has been anonymized and cleaned for analysis.\nAjuntament de Barcelona Public Immigrants Dataset (2023)\nProvides annual statistics on immigrants in Barcelona by nationality, sex, and age.\nInstituto Nacional de Estadística Living Conditions Survey (2023)\nContains data on the risk of poverty or social exclusion by nationality in Spain.\n\n\n\nDefining 4 Criteria People: Data directly describing the specific demographic of individuals who meet all four criteria (immigrants/asylum seekers in vulnerable situations, fluent in English or Spanish, with documentation, living in Barcelona) is unavailable. Why?: Population data on immigration lacks details on income, employment, and language. Asylum seeker data does not specify individual cities or work documentation. Annual reports do not cover long-term immigrants comprehensively.\n\n\n\n\nGeographic Origin Distribution\n\nMigracode Students:\n**Barcelo\nImplication:\n\nCountry of Origin\n\nMigracode Students:\nImplication:\n\nAge Distribution\n\nMigracode Students:\n4 Criteria People:\nImplication:\n\nTechnical Experience\n\nMigracode Students:\nImplication:"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/Blog.html#analysis-of-migracode-students-vs.-4-criteria-people",
+    "href": "posts/Blog.html#analysis-of-migracode-students-vs.-4-criteria-people",
+    "title": "Immigration into Spain: A Case Study",
     "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Migracode is a non-profit project that provides coding classes for migrants reaching certain criteria. This analysis investigates how Migracode Students compare to the broader population of immigrants in Barcelona and more broadly in Spain. This exploration seeks to determine whether Migracode Students reflect the general population of eligible applicants or if there are disparities among different groups.\nThere are four criteria to apply to Migracode classes:\n(1) EITHER / Be a refugee or asylum seeker / Be a migrant from outside the EU who cannot find work / OR / Be a migrant from outside the EU in a difficult/vulnerable living situation\n(2) Be fluent in English or Spanish\n(3) Have documentation to live/work in Spain\n(4) Live in/around Barcelona\nI refer to people who meet this eligibility requirements as 4 Criteria People, a demographic that is not described fully by any public dataset.\n\n\n\nMigracode Students Database\nContains records of individuals who have applied to Migracode classes from 2021 to 2024. Data has been anonymized and cleaned for analysis.\nAjuntament de Barcelona Public Immigrants Dataset (2023)\nProvides annual statistics on immigrants in Barcelona by nationality, sex, and age.\nInstituto Nacional de Estadística Living Conditions Survey (2023)\nContains data on the risk of poverty or social exclusion by nationality in Spain.\n\n\n\nDefining 4 Criteria People: Data directly describing the specific demographic of individuals who meet all four criteria (immigrants/asylum seekers in vulnerable situations, fluent in English or Spanish, with documentation, living in Barcelona) is unavailable. Why?: Population data on immigration lacks details on income, employment, and language. Asylum seeker data does not specify individual cities or work documentation. Annual reports do not cover long-term immigrants comprehensively.\n\n\n\n\nGeographic Origin Distribution\n\nMigracode Students:\n**Barcelo\nImplication:\n\nCountry of Origin\n\nMigracode Students:\nImplication:\n\nAge Distribution\n\nMigracode Students:\n4 Criteria People:\nImplication:\n\nTechnical Experience\n\nMigracode Students:\nImplication:"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Immigration into Spain: A Case Study",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 4, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nImmigration into Spain: A Case Study\n\n\n\n\n\n\n\n\n\n\n\nAug 2, 2024\n\n\nGeorgia Trentalange\n\n\n\n\n\n\nNo matching items"
+    "text": "Immigration into Spain: A Case Study\n\n\n\n\n\n\n\n\n\n\n\nAug 2, 2024\n\n\nGeorgia Trentalange\n\n\n\n\n\n\nNo matching items"
   }
 ]
